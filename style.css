@@ -1,0 +1,19 @@
+body {
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+}
+
+
+img {
+    height: auto;
+    width: 770px;
+}
+
+h1 {
+    background-color: greenyellow;
+    text-align: center;
+}
+body {
+    margin: auto;
+    width: 50%;
+    padding: 10px
+}
